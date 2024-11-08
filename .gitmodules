@@ -1,0 +1,6 @@
+[submodule "ios"]
+	path = ios
+	url = https://github.com/staszekscp/Signal-iOS.git
+[submodule "android"]
+	path = android
+	url = https://github.com/staszekscp/Signal-Android.git
